@@ -1,0 +1,33 @@
+.Contenedor
+{
+border-color:deepskyblue;
+
+  border-width: 20px;
+  border-style:solid;
+  
+
+  height: 350px;
+  width: 400px;
+  margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: deepskyblue;
+}
+.Contenedor input{
+    width: 90%;
+    height: 30px;
+    margin: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.Contenedor button{
+    padding: 0.5em 1em;
+    border: none;
+    background: deepskyblue;
+    cursor: pointer;
+    width: 90%;
+    margin: 1rem;
+    color:white;
+    font-size: 20px;
+}
